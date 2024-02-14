@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.quiltt.app_jetpack_compose",
+    "sha256_cert_fingerprints":
+    ["4F:35:BB:58:13:D9:7E:42:90:A8:24:2A:6F:AE:76:50:EB:C7:C4:15:C7:64:C1:20:38:B0:61:5D:E1:80:CB:D1"]
+  }
+}]
